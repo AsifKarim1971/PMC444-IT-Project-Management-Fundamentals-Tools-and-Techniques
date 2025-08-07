@@ -1,0 +1,2 @@
+# PMC444-IT-Project-Management-Fundamentals-Tools-and-Techniques
+This course lays a foundation in IT project management, emphasizing the core concepts, techniques, and methodologies critical for effectively steering projects from their initiation to successful completion. It aligns with the standards set by the Project Management Institute (PMI) and covers both traditional and Agile project management approaches
